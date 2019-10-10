@@ -3,6 +3,7 @@ from django.views.decorators.csrf import csrf_exempt
 from django.utils import timezone
 from todolist.models import Todo
 from django.http import HttpResponseRedirect
+
 # Create your views here.
 
 
